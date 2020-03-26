@@ -1,0 +1,28 @@
+body {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    background-color: #f2f2f2;
+    
+}
+
+#static {
+    width: 1200px;
+    height: auto;
+}
+
+#menu {
+
+}
+
+#reviews {
+
+
+}
+
+#q-a {
+
+
+    
+}
